@@ -334,13 +334,12 @@ img {
     overflow: hidden;
 }
 
-.section.no-padding {
-    padding-top: 0;
-}
-
 .peculiarities {
     display: flex;
-    /* align-items: center; */
+}
+
+.peculiarit {
+    padding-bottom: 47px;
 }
 
 .peculiarities .item {
@@ -388,6 +387,10 @@ img {
 
 .work {
     display: flex;
+}
+
+.work-padding {
+    padding-top: 47px;
 }
 
 .section-title {
